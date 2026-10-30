@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Array Deck/Array Deck.vcxproj" Id="02d79a07-ed64-4518-8594-35918c6b9f2a" />
+</Solution>
